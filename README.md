@@ -169,7 +169,7 @@ Features:
 
 ## 👩‍💻 Author
 
-- Developed by P.Lakshmi Sravani
+- Developed by P.Ruthu Kumari
 B.Tech CSE | Full-Stack Developer | ML Enthusiast
 
 ⭐ If you like this project, give it a star!
